@@ -1,1 +1,2 @@
-# site_imobiliaria_santos
+# Site Imobiliaria Santos
+Projeto acadêmico de uma imobiliária
